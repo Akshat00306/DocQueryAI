@@ -596,3 +596,4 @@ If you find **DocQuery AI** useful, consider giving the repository a ⭐ on GitH
 <p align="center">
   <b>Built with React · FastAPI · LangChain · ChromaDB · SQLite · LLMs</b>
 </p>
+
