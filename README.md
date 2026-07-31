@@ -6,11 +6,7 @@ Upload documents, ask questions in natural language, or query structured data wi
 
 <p align="center">
   <a href="https://docquery-ai-omega.vercel.app">
-    <strong>Live Demo</strong>
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/Akshat00306/DocQueryAI">
-    <strong>GitHub Repository</strong>
+    <strong>DocQuery-AI</strong>
   </a>
 </p>
 
@@ -52,12 +48,14 @@ DocQuery AI uses a modular full-stack architecture connecting the React frontend
   <img src="https://raw.githubusercontent.com/Akshat00306/DocQueryAI/main/DOCQuery1.png" alt="DocQuery AI System Design" width="100%">
 </p>
 
+[DocQuery AI System Design](https://akshat00306.github.io/DOCQuery-Systemdesign/)
+
 ### Architecture Components
 
 | Component           | Technology             | Purpose                                                    |
 | ------------------- | ---------------------- | ---------------------------------------------------------- |
 | Frontend            | React.js               | User interface, file upload, chat and result visualization |
-| Backend             | FastAPI                | REST API and application orchestration                     |
+| Backend            | FastAPI                | REST API and application orchestration                     |
 | Document Processing | Python                 | File extraction and preprocessing                          |
 | RAG Pipeline        | Custom Python Pipeline | Chunking, embedding, retrieval and generation              |
 | Embeddings          | Gemini API             | Converts documents and queries into vectors                |
